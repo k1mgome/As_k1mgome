@@ -1,8 +1,6 @@
 # As_K1mgome
 
-AI 디지털 플랫폼 개발자/기획자 안소연입니다!
-
-k1mgome(김고미) 라는 아이디로 주로 활동합니다. 
+AI 디지털 플랫폼 개발자/기획자 k1mgome(김고미)입니다!
 
 1. [INTRODUCTION](https://www.notion.so/As_K1mgome-75eec2e558e94f29833e69c64128adad?pvs=21)
 2. [SERVICE PROJECT](https://www.notion.so/As_K1mgome-75eec2e558e94f29833e69c64128adad?pvs=21)
